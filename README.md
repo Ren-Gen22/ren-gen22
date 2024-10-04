@@ -48,4 +48,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ren-gen22&show_icons=true&theme=dark&locale=en&layout=compact" alt="ren-gen22" /></p>
-[.](https://chatgpt.com/share/66fff6e4-b590-800e-b1b6-0931a95bc337)
+[<>](https://chatgpt.com/share/66fff6e4-b590-800e-b1b6-0931a95bc337)
